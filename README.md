@@ -1,9 +1,2 @@
-#Demo
-# Demo
-# Demmo
-# Jai Nepal
-# My Demo
-# Demo
-# Demo
-# demo
-# demo god
+# Demo Repository
+This is a sample repository created using Git Bash.
